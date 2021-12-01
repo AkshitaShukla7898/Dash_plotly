@@ -1,0 +1,13 @@
+From Asmabee Khan to Everyone 10:31 PM
+https://www.youtube.com/watch?v=Qw6uAg3EO64
+https://www.youtube.com/watch?v=9ZB1EgaJnBU
+https://www.youtube.com/watch?v=8jvoTV54nXw
+From Me to Everyone 10:32 PM
+I can hear you
+From Asmabee Khan to Everyone 10:43 PM
+https://github.com/AnimeshN/kyd/blob/master/templates/kyd_dashboard/f6_oi_map.html
+https://kyd.communitygis.net/Palghar/2019-20/kyd_dashboard/f6_oi_map
+KYD Username: Palghar
+Password: knowyourPalghar
+https://github.com/AnimeshN/kyd/blob/master/kyd_dashboard/views.py
+class F6OiMap(LoginRequiredMixin, TemplateView):
